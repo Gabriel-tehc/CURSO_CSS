@@ -1,0 +1,89 @@
+
+/*#introduccion {
+    color: white;
+    background-color: gray;
+}
+
+.primero {
+    font-size: 200%;
+}
+
+#intro.first em {
+    color: blue;
+    background-color: red;
+}
+
+p.serif {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.cursive {
+    font-family: Florence, cursive;
+}
+
+p.fantasy {
+    font-family: Blippo, fantasy;
+}
+
+p.small {
+    font-size: small;
+}
+
+p.medium {
+    font-size: medium;
+}
+
+p.large{
+    font-size: large;
+}
+
+p.xlarge {
+    font-size: x-large;
+}*/
+
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+}
+
+p.light {
+    font-weight: lighter;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.bolder {
+    font-weight: bolder;
+}
+
+/*h1{
+    color: black;
+    font-size: 15pt;
+    text-shadow: 1px 1px 1px grey;
+    5px – la coordenada en X
+    2px – la coordenanda en Y
+    4px – el radio de desenfoque
+    grey – Color de la sombra
+}*/
+
+h2 {
+    font-size: 20pt;
+    text-shadow: rgb(0, 26, 255) -1px -2px 0.5em;
+}
